@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melodias Creativas</title>
+    <link rel="stylesheet" href="democss.css">
+</head>
+
+<body>
+    <h1>
+        <center>Melodias Creativas</center>
+    </h1>
+    <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe maiores, adipisci mollitia reprehenderit
+        cupiditate dolorum amet aut accusantium esse non assumenda velit harum consequuntur facere sed facilis. Iusto
+        nostrum porro, quaerat nulla aspernatur perferendis a officia veniam reprehenderit iure, quidem itaque
+        consequuntur possimus necessitatibus dignissimos praesentium commodi dolore quia saepe. Veritatis placeat
+        sapiente quis reiciendis eum culpa consequuntur expedita minus?</h2>
+    <center>
+        <img src="C:\Users\Usuario23\Documents\todo Turismo\pagina\reto01\descarga.jpg" alt="imagen" width="250"
+            height="250">
+        <img src="C:\Users\Usuario23\Documents\todo Turismo\pagina\reto01\adam.jpg" alt="imagen" width="250"
+            height="250">
+        <img src="C:\Users\Usuario23\Documents\todo Turismo\pagina\reto01\greenwood.jpg" alt="imagen" width="250"
+            height="250">
+    </center>
+    <section>
+        <center>
+            <video height="250" height="180" controls>
+                <source src="https://youtu.be/9GkVhgIeGJQ?si=qNklwA3eQmpfkVxX">
+            </video>
+        </center>
+    </section>
+    <div>
+    <center>
+        <section>
+            <a href="https://vallegrande.edu.pe/">VER MÁS</a>
+        </section>
+    </center>
+    </div>
+    <div>
+        <section>
+            <form action="Text">
+                <label for="Text">
+                    <span>consultas? haznos saber</span>
+                    <input type="Text" id="Text" name="Text">
+                </label>
+            </form>
+        </section>
+    </div>
+    <section>
+        <ul>
+        <li><p>Tienes alguan duda o quieres otras fuente para saber sobre nosotros?</p></li>
+    </ul>
+        <button type="button"><a href="https://vallegrande.edu.pe/">Quiero saber más</a></button>
+    </section>
+    <section>
+        <p>que clases quiere tomar? aqui las que tenemos disponibles👇</p>
+        <select name="clases" id="instrumentos">
+            <option value="g">guitarra</option>
+            <option value="b">bajo</option>
+            <option value="c">canto</option>
+            <option value="bt">bateria</option>
+
+        </select>
+    </section>
+</body>
+
+</html>
